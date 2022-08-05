@@ -1,5 +1,36 @@
 /* 
-    Name:   
-    Date:   
+    Name:   Lissett Toscano
+    Date:   8/4/2022
     Description: Weather app using an API
 */
+
+body {
+   font-family: Helvetica, sans-serif;
+   color: #555;
+   background-color: #e6f2ff;
+}
+
+#weather-input div {
+   padding-bottom: 8px;
+}
+
+.hidden {
+   display: none;
+}
+
+.error-msg {
+   color: red;
+}
+
+table {
+   margin-bottom: 15px;
+}
+
+table caption {
+   font-weight: bold;
+}
+
+table td {
+   text-align: center;
+   padding: 3px 8px;
+}
